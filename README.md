@@ -1,16 +1,23 @@
-## Hi there 👋
+🛡️ Identidad Profesional
+Ingeniero orientado a la ciberdefensa, inteligencia preventiva y análisis estratégico de amenazas.
 
-<!--
-**Ezefil/Ezefil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formación Académica
+Realizando mi residencia profesional en Ingeniería Informática
+Especialización en Seguridad Informática
 
-Here are some ideas to get you started:
+🔎 Experiencia Pericial
+• Investigación digital
+• Cadena de custodia
+• Preservación y trazabilidad de evidencia
+• Evaluación estructurada de seguridad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Liderazgo & Proyectos
+
+
+📚 Formación Continua
+Actualización constante en amenazas emergentes, monitoreo, respuesta a incidentes y estrategias de defensa.
+
+⚔️ Visión Profesional
+Convertir información en inteligencia.
+Transformar riesgo en control.
+Fortalecer la defensa digital con disciplina táctica y ética profesional.
